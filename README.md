@@ -1,4 +1,4 @@
 # Pycoin
- Pycoin is Dapp for writing, testing and deploying mathematically verifiable secure smart contracts in python language that behave s exactly as intended
+Pycoin is a DApp for writing, testing and deploying mathematically verifiable secure smart contracts in python language that behave exactly as intended.
 
-Unlike etheriun smart contracts with a history of repetted hacks and stolen funds, 100's and millions of dollors , pycoin ensures that no run time errors or intentional/unintitentail bugs can be used as expolits to steal fund and corrupt smart contracts.
+Unlike etherium smart contracts with a history of repeated hacks and stolen funds, hundreds and millions of dollars, Pycoin ensures that no run time errors or intentional/unintentional bugs can be used as expolits to steal funds and corrupt Pycoin smart contracts.
