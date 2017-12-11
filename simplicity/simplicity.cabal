@@ -1,0 +1,53 @@
+name:                simplicity
+version:             0.1.0.0
+synopsis:            Implementation of "Simplicity: A New Language for Blockchains"
+-- description:
+license:             BSD3
+license-file:        LICENSE
+author:              Joel Burget
+maintainer:          joelburget@gmail.com
+-- copyright:
+category:            Language
+build-type:          Simple
+extra-source-files:  ChangeLog.md
+cabal-version:       >=1.10
+
+library
+  exposed-modules:
+    BitMachine
+    Simplicity
+    -- CCCs
+  -- other-modules:
+  -- other-extensions:
+  build-depends:
+      base >=4.9 && <4.11
+    , concat-classes
+    -- , concat-plugin
+    , ghc-prim
+    , lens
+    , mtl
+    , vector
+  hs-source-dirs:      src
+  default-language:    Haskell2010
+  -- ghc-options:
+  --   -O2
+  --   -fplugin=ConCat.Plugin
+    -- -fplugin-opt=ConCat.Plugin:trace
+
+test-suite examples
+  type:             exitcode-stdio-1.0
+  default-language: Haskell2010
+  hs-source-dirs:   src
+  main-is:          Main.hs
+  build-depends:
+      base >=4.9 && <4.11
+    , concat-classes
+    , concat-plugin
+    , concat-examples
+    , ghc-prim
+    , lens
+    , mtl
+    , vector
+  ghc-options:
+    -O2
+    -fplugin=ConCat.Plugin
