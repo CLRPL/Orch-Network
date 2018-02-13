@@ -10,6 +10,8 @@ Unlike etherium smart contracts with a history of repeated hacks and stolen fund
 
 ###### Download Our WhitePaper [here](http://www.pycoin.io/static/whitepaper.pdf).
 
+###### Download Our RoadMap And Self-Governance System [here](http://www.pycoin.io/static/roadmap.pdf).
+
 ###### Join Our Pycoin Channel on [telegram](https://t.me/joinchat/AAAAAELD7jciV2TkouwTBA)
 
 ###### Write Us email : info@pycoin.io
