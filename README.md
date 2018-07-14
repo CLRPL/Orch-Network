@@ -1,6 +1,6 @@
 # [Orch Network](https://orch.network)
 
-### Orch is rebranded project of Pycoin
+### Orch is the rebranded project of Pycoin
 
 > STILL UNDER DEVELOPMENT
 
